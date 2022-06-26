@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Introduction
+This is a simple bet game using React and Redux. Using mapStateToProps and mapDispatchtoProps to deal with Redux store's state and dispactch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
